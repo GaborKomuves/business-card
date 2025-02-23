@@ -24,8 +24,8 @@ A simple and elegant **Developer Profile Card** built using **HTML and CSS only*
 - Profile display in web applications
 
 ## 🚀 Preview
+![Profile Card Preview](https://github.com/user-attachments/assets/bb162ceb-ec0d-4de0-8078-ae9093ec666b)
 
-![Profile Card Preview](image.png)
 
 ## 🔧 How to Use
 
